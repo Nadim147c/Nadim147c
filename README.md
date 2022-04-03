@@ -1,3 +1,3 @@
-### ohh, Hi
+### Nadim147
 
-- I'm lazy, love to waste time, not good at coding. :p
+- I'm lazy, love to waste time, not good at coding.
