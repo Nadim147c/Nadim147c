@@ -1,11 +1,7 @@
-<h1 align="center">Hello there! I'm Nadim147</h1>
-<h3 align="center">I'm someone who likes to try different things</h3>
+<h1 align="center">Ephemeral</h1>
 
 ---
 
-## 🚀 Languages and Tools:
-
-<br/>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-2449d8?style=for-the-badge&logo=css3&logoColor=white" />
