@@ -13,12 +13,10 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Nadim147c&theme=blueberry_duo&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Nadim147c&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0000" />
 </P>
-
+ 
 ---
 
-![](https://activity-graph.herokuapp.com/graph?username=Nadim147c&bg_color=0000&color=38bdae&line=38bdae&point=FFFFFF&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadim147c&langs_count=9&count_private=true&layout=compact&hide_border=true&bg_color=0000&text_color=38bdae)
+<p align="center">
+<img src="/isocalendar.svg">
+</P>
