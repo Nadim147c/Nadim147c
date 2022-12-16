@@ -1,0 +1,20 @@
+name: "Release"
+
+on:
+    push:
+        branches:
+            - "main"
+
+jobs:
+    changelog:
+        name: "Release"
+        runs-on: "ubuntu-latest"
+
+        steps:
+          - name: Half-year calendar
+            uses: lowlighter/metrics@latest
+            with:
+              filename: isocalendar.svg
+              token: ${{ secrets.PAT_TOKEN }}
+              base: ""
+              plugin_isocalendar: yes
