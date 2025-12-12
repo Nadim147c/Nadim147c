@@ -12,8 +12,6 @@
   generator.
 - [waybar-lyric](https://github.com/Nadim147c/waybar-lyric): 🎙️A waybar module for
   song lyrics.
-- [ChromaShift](https://github.com/Nadim147c/ChromaShift): 👾 A output colorizer for
-  your favorite commands.
 - [field](https://github.com/Nadim147c/field): 🧮 A easy, elegant and flexible tool
   for accessing fields.
 
