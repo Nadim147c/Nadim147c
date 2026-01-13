@@ -4,7 +4,7 @@
     <img src="/isocalendar.svg">
 </P>
 
-![GitHub User's stars](https://img.shields.io/github/stars/Nadim147c?style=for-the-badge&labelColor=11140F&color=BBE9AA)
+Total Stars: ![GitHub User's stars](https://img.shields.io/github/stars/Nadim147c?style=for-the-badge&labelColor=11140F&color=BBE9AA)
 
 ## Tools
 
@@ -14,6 +14,7 @@
   song lyrics.
 - [field](https://github.com/Nadim147c/field): 🧮 A easy, elegant and flexible tool
   for accessing fields.
+- [yankd](https://github.com/Nadim147c/yankd): 📋 A wayland native clipboard manager.
 
 ## Packages
 
