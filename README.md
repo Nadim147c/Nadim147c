@@ -4,7 +4,11 @@
     <img src="/isocalendar.svg">
 </P>
 
-Total Stars: ![GitHub User's stars](https://img.shields.io/github/stars/Nadim147c?style=for-the-badge&labelColor=11140F&color=BBE9AA)
+![GitHub User's stars](https://img.shields.io/github/stars/Nadim147c?style=for-the-badge&labelColor=11140F&color=BBE9AA)
+
+## Dotfiles
+
+[NixOS config](https://github.com/Nadim147c/dotfiles)
 
 ## Tools
 
