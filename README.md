@@ -16,7 +16,7 @@
   generator.
 - [waybar-lyric](https://github.com/Nadim147c/waybar-lyric): 🎙️A waybar module for
   song lyrics.
-- [field](https://github.com/Nadim147c/field): 🧮 A easy, elegant and flexible tool
+- [field](https://github.com/Nadim147c/field): 🤖 A easy, elegant and flexible tool
   for accessing fields.
 - [yankd](https://github.com/Nadim147c/yankd): 📋 A wayland native clipboard manager.
 
