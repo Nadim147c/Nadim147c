@@ -5,6 +5,9 @@
 <p align="center">
     <img src="./isocalendar.svg">
     <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadim147c&theme=github-dark&area=true&hide_border=true&hide_title=true&color=FFFFFF&line=30A14E&point=39D353&area_color=30A14E"
+    alt="activity-graph graph"  />
+    <br>
     <img src="https://img.shields.io/github/stars/Nadim147c?style=for-the-badge&labelColor=11140F&color=BBE9AA" />
 </P>
 
