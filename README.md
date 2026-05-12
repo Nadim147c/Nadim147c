@@ -2,25 +2,8 @@
     <pre>Nadim147c</pre>
 </h1>
 
-<p align="center">
-    <img src="./isocalendar.svg">
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadim147c&theme=github-dark&area=true&hide_border=true&hide_title=true&color=FFFFFF&line=30A14E&point=39D353&area_color=30A14E"
-    alt="activity-graph graph"  />
-    <br>
-    <img src="https://img.shields.io/github/stars/Nadim147c?style=for-the-badge&labelColor=11140F&color=BBE9AA" />
-</P>
-
-<h2 align="center">
-     List of icons that mean absolutely nothing
-</h2>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,arch,nix,neovim,bash,docker,go,py,js,ts,nodejs,bun,deno,next,vite,react,tailwind,discordjs,npm,svelte&perline=10" />
-</p>
-
 <h3 align="center">
-    <a href="https://github.com/Nadim147c/dotfiles">NixOS Config</a> 
+    I use <a href="https://github.com/Nadim147c/dotfiles">NixOS</a> btw!
 </h3>
 
 <h1 align="center">
